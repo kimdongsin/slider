@@ -1,1 +1,1 @@
-#  slider 직접구현
+#  slider JS 직접구현
